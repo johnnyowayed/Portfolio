@@ -5,22 +5,125 @@
 
 ---
 
-## Skills & Technologies
+## Featured Projects
 
-| Cross-Platform | iOS Native | Architecture | Tools & Services |
-|----------------|------------|--------------|------------------|
-| Flutter        | Swift      | MVVM         | Git              |
-| Dart           | SwiftUI    | Clean Code   | Firebase         |
-| Provider       | UIKit      | BLoC         | RESTful APIs     |
-| GetX           | SpriteKit  | Repository   | CloudKit         |
-| Flutter Widgets| WidgetKit  | Dependency Injection | CI/CD    |
+<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Entertainment Apps - Supono Holdings</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Led the development of 5 cross-platform entertainment apps using Flutter and iOS, managing state with GetX and Bloc.
+
+#### Technical Highlights
+- Developed robust cross-platform applications using **Flutter (GetX, Bloc)** and **iOS (Swift, Objective-C)**
+- Enhanced user engagement through advanced UI/UX designs and animations
+- Integrated analytics, A/B testing, and crash reporting to boost user retention
+- Achieved 99% crash-free sessions through effective unit testing and monitoring
+- Led integration of latest Flutter features, keeping apps ahead of competitors
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Banking App - Saradar Bank</h3>
 
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Project Name</h3>
-**Cross-platform business networking app**
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Improved banking app functionality by developing features within an Agile team of 5 members.
+
+#### Technical Highlights
+- Improved app performance, reducing load times by 25%
+- Increased application reliability through performance optimization and unit tests
+- Advanced app development by adopting modern architectures like MVVM and RxSwift
+- Collaborated effectively within an Agile environment
+- Designed and implemented robust financial features for secure banking operations
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png" style="vertical-align: middle; margin-right: 8px;"/> Simly - iOS App</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Developed and maintained an iOS app with over 1M+ users, ensuring high performance and scalability.
+
+#### Technical Highlights
+- Introduced SwiftUI screens to enhance UI consistency and performance
+- Utilized Combine for reactive programming and improved data flow management
+- Achieved 99.99% crash-free sessions, providing stable and reliable user experience
+- Enhanced user engagement through advanced UI/UX designs and animations
+- Ensured app scalability to handle a growing user base of over 1 million users
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png" style="vertical-align: middle; margin-right: 8px;"/> Fibler - Communication Platform</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Increased user satisfaction by 20% through redesigning the iOS app's user interface and enhancing communication features.
+
+#### Technical Highlights
+- Integrated real-time features including calls, video, and chat
+- Enabled advanced functionality with AI and live-streaming
+- Optimized app navigation using MVC and coordinator patterns
+- Implemented RESTful services and crash reporting
+- Increased data exchange capacity through advanced socket connections
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Business Card Exchange App</h3>
 
 <table>
 <tr>
@@ -54,7 +157,6 @@ A Flutter-based networking application that enables professionals to create and 
 ---
 
 <h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Data Explorer App</h3>
-**iOS native data visualization tool**
 
 <table>
 <tr>
@@ -88,7 +190,6 @@ A SwiftUI-based iOS application for searching, sorting, and analyzing data with 
 ---
 
 <h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png" style="vertical-align: middle; margin-right: 8px;"/> Multi-Timer App</h3>
-**iOS widget-enabled timing utility**
 
 <table>
 <tr>
@@ -121,7 +222,6 @@ A native iOS application that allows users to run multiple timers simultaneously
 ---
 
 <h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png" style="vertical-align: middle; margin-right: 8px;"/> Interactive Game</h3>
-**iOS gaming experience with intelligent interactions**
 
 <table>
 <tr>
@@ -152,6 +252,31 @@ An immersive iOS gaming experience built with SpriteKit that features intelligen
 </td>
 </tr>
 </table>
+
+---
+
+## Skills & Technologies
+
+### Programming & Development
+- **iOS**: Swift, SwiftUI, Objective-C
+- **Flutter**: Dart, GetX, Bloc
+- **Architecture & Design Patterns**: MVVM, MVC, Coordinator
+- **Multithreading, Caching & Memory Management**
+- **Networking**: RESTful APIs, GraphQL, WebSockets
+- **Database Management**: Core Data, Realm, Firebase
+
+### Tools & Technologies
+- **Reactive Programming**: RxSwift, Combine
+- **Dependency Injection & Modularization**
+- **Testing & Optimization**: Unit/UI Testing, Performance Tuning
+- **CI/CD Pipelines**: Fastlane, GitHub Actions, Xcode Cloud
+- **Automation & Deployment**: TestFlight, App Store Connect, Firebase App Distribution
+
+### Project Management & Methodologies
+- **Agile Development**: Scrum
+- **Version Control & Collaboration**: Git, Jira, Trello
+- **User Analytics & Performance Monitoring**: A/B Testing, Crash Reporting
+- **AI Augmented Defect Resolution**
 
 ---
 
