@@ -19,7 +19,7 @@
 
 ## Featured Projects
 
-### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png"/> Project Name
+### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle;"/> Project Name
 **Cross-platform business networking app**
 
 <table>
@@ -53,7 +53,7 @@ A Flutter-based networking application that enables professionals to create and 
 
 ---
 
-### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png"/> Data Explorer App
+### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle;"/> Data Explorer App
 **iOS native data visualization tool**
 
 <table>
@@ -87,7 +87,7 @@ A SwiftUI-based iOS application for searching, sorting, and analyzing data with 
 
 ---
 
-### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png"/> Multi-Timer App
+### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png" style="vertical-align: middle;"/> Multi-Timer App
 **iOS widget-enabled timing utility**
 
 <table>
@@ -120,7 +120,7 @@ A native iOS application that allows users to run multiple timers simultaneously
 
 ---
 
-### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png"/> Interactive Game
+### <img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png" style="vertical-align: middle;"/> Interactive Game
 **iOS gaming experience with intelligent interactions**
 
 <table>
