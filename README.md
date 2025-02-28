@@ -1,7 +1,7 @@
-# Your Name
-## Mobile Developer | Flutter & iOS Specialist
+# JOHNNY OWAYED
+## SENIOR iOS & FLUTTER DEVELOPER
 
-![Mobile Developer Banner](https://user-images.githubusercontent.com/945761/223170235-c4bac54f-871f-44bb-9fca-e9a86db75527.jpeg)
++961 71 213 231 | johnny.owayed@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnnyowayed/)
 
 ---
 
@@ -156,18 +156,43 @@ An immersive iOS gaming experience built with SpriteKit that features intelligen
 ---
 
 ## Education & Certifications
-- **Flutter Development Bootcamp** - Certificate of Completion
-- **iOS 15 & Swift 5 - The Complete iOS App Development Bootcamp**
-- **Bachelor of Science, Computer Science** - University Name
+
+### Education
+- **MS Computer and Communication Engineering**  
+  American University of Science and Technology (AUST)  
+  Beirut, Lebanon - 06/2018 - 02/2020
+
+- **BS Computer and Communication Engineering**  
+  American University of Science and Technology (AUST)  
+  Beirut, Lebanon - 11/2012 - 06/2017
+
+### Certifications
+- **Completed**
+  - Clean code
+  - MVVM Swift
+  - BDD Swift
+  - Swift Concurrency
+  - Flutter Development Bootcamp
+
+- **In Progress**
+  - Advanced CoreData
+  - Unit Testing Swift
+  - SwiftUI and SwiftData
+
+### Languages
+- **Arabic**: Native
+- **English**: Proficient
 
 ---
 
-## Contact & Social
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+## Experience Timeline
+
+- **Senior iOS & Flutter Developer** - Supono Holdings (01/2022 - Present)
+- **Senior iOS Developer** - Simly (01/2024 - 01/2025)
+- **Senior iOS Developer** - Saradar Bank (06/2021 - 12/2022)
+- **iOS Developer** - Fibler (01/2019 - 05/2021)
+- **Junior iOS Developer** - Chip (10/2017 - 12/2018)
 
 ---
 
-<p align="center">Made with ❤️ using Flutter and SwiftUI</p>
+<p align="center">© 2025 Johnny Owayed - Senior iOS & Flutter Developer</p>
