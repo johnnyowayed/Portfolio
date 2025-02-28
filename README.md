@@ -1,4 +1,4 @@
-# Johnny Owayed
+# Your Name
 ## Mobile Developer | Flutter & iOS Specialist
 
 ![Mobile Developer Banner](https://user-images.githubusercontent.com/945761/223170235-c4bac54f-871f-44bb-9fca-e9a86db75527.jpeg)
@@ -24,8 +24,12 @@
 
 <table>
 <tr>
-<td width="200">
-<img width="180" alt="Project Screenshot" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
+</div>
 </td>
 <td>
 
@@ -54,8 +58,12 @@ A Flutter-based networking application that enables professionals to create and 
 
 <table>
 <tr>
-<td width="200">
-<img width="180" alt="Project Screenshot" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
+</div>
 </td>
 <td>
 
@@ -84,8 +92,12 @@ A SwiftUI-based iOS application for searching, sorting, and analyzing data with 
 
 <table>
 <tr>
-<td width="200">
-<img width="180" alt="Project Screenshot" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+</div>
 </td>
 <td>
 
@@ -113,8 +125,12 @@ A native iOS application that allows users to run multiple timers simultaneously
 
 <table>
 <tr>
-<td width="200">
-<img width="180" alt="Project Screenshot" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+</div>
 </td>
 <td>
 
