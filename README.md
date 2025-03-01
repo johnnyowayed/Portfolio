@@ -7,73 +7,15 @@
 
 ## Featured Projects
 
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Entertainment Apps - Supono Holdings</h3>
+<h3><img width="30" alt="App Icon" src="./assets/simly/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Simly - iOS App</h3>
 
 <table>
 <tr>
 <td width="300">
 <div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-Led the development of 5 cross-platform entertainment apps using Flutter and iOS, managing state with GetX and Bloc.
-
-#### Technical Highlights
-- Developed robust cross-platform applications using **Flutter (GetX, Bloc)** and **iOS (Swift, Objective-C)**
-- Enhanced user engagement through advanced UI/UX designs and animations
-- Integrated analytics, A/B testing, and crash reporting to boost user retention
-- Achieved 99% crash-free sessions through effective unit testing and monitoring
-- Led integration of latest Flutter features, keeping apps ahead of competitors
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Banking App - Saradar Bank</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-Improved banking app functionality by developing features within an Agile team of 5 members.
-
-#### Technical Highlights
-- Improved app performance, reducing load times by 25%
-- Increased application reliability through performance optimization and unit tests
-- Advanced app development by adopting modern architectures like MVVM and RxSwift
-- Collaborated effectively within an Agile environment
-- Designed and implemented robust financial features for secure banking operations
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png" style="vertical-align: middle; margin-right: 8px;"/> Simly - iOS App</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
+<img width="90" alt="Screenshot 1" src="./assets/simly/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/simly/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/simly/screenshot3.png"/>
 </div>
 </td>
 <td>
@@ -94,15 +36,131 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 
 ---
 
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png" style="vertical-align: middle; margin-right: 8px;"/> Fibler - Communication Platform</h3>
+<h3><img width="30" alt="App Icon" src="./assets/ai-video-generator/icon.png" style="vertical-align: middle; margin-right: 8px;"/> AI Video Generator - Serda</h3>
 
 <table>
 <tr>
 <td width="300">
 <div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
+<img width="90" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Led the development of an AI-powered video generation application using Flutter, delivering a seamless cross-platform experience.
+
+#### Technical Highlights
+- Implemented complex AI integration for automated video creation from text prompts
+- Built responsive UI with Flutter and Bloc state management
+- Integrated with cloud services for media processing and storage
+- Developed custom video rendering and editing capabilities
+- Created intuitive user experience for AI-assisted content creation
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="./assets/saradar/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Banking App - Saradar Bank</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="./assets/saradar/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/saradar/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/saradar/screenshot3.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Improved banking app functionality by developing features within an Agile team of 5 members.
+
+#### Technical Highlights
+- Improved app performance, reducing load times by 25%
+- Increased application reliability through performance optimization and unit tests
+- Advanced app development by adopting modern architectures like MVVM and RxSwift
+- Collaborated effectively within an Agile environment
+- Designed and implemented robust financial features for secure banking operations
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="./assets/pic-answer/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Pic Answer - AI Image Analysis</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Developed a Flutter application that uses AI to analyze images and provide contextual information and answers based on visual content.
+
+#### Technical Highlights
+- Integrated cutting-edge image recognition API for accurate visual analysis
+- Implemented camera functionality with real-time processing capabilities
+- Created intuitive UI/UX for seamless image capture and analysis workflow
+- Developed cross-platform compatibility with optimized performance on both iOS and Android
+- Implemented offline capabilities for basic functionality without internet connection
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="./assets/malak-al-taouk/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Malak Al Taouk - Restaurant App</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png"/>
+</div>
+</td>
+<td>
+
+#### Overview
+Designed and developed a comprehensive restaurant application for Malak Al Taouk, featuring online ordering, menu browsing, and loyalty program functionality.
+
+#### Technical Highlights
+- Built with Flutter for cross-platform compatibility and consistent user experience
+- Implemented secure payment processing with multiple payment options
+- Created real-time order tracking system with estimated delivery times
+- Integrated location services for delivery zone management and store locator
+- Developed loyalty program with points system and rewards redemption
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="./assets/fibler/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Fibler - Communication Platform</h3>
+
+<table>
+<tr>
+<td width="300">
+<div align="center">
+<img width="90" alt="Screenshot 1" src="./assets/fibler/screenshot1.png"/>
+<img width="90" alt="Screenshot 2" src="./assets/fibler/screenshot2.png"/>
+<img width="90" alt="Screenshot 3" src="./assets/fibler/screenshot3.png"/>
 </div>
 </td>
 <td>
@@ -116,138 +174,6 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 - Optimized app navigation using MVC and coordinator patterns
 - Implemented RESTful services and crash reporting
 - Increased data exchange capacity through advanced socket connections
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Business Card Exchange App</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224568067-39a89bfc-8531-450f-a4e1-ac89b4422258.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-A Flutter-based networking application that enables professionals to create and exchange digital business cards through QR codes, with cloud synchronization across all devices.
-
-#### Technical Highlights
-- Implemented **Firebase Cloud Firestore** for real-time data synchronization
-- Built a custom state management solution using **Provider** and **BLoC pattern**
-- Created modular UI components with **Flutter Widgets**
-- Integrated **QR code generation and scanning** for seamless card exchanges
-- Utilized **Hive** for local data persistence and offline functionality
-
-#### Platform Availability
-<a href="#"><img width="120" alt="Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
-<a href="#"><img width="120" alt="App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110027-e36011fb-ff8d-4104-b4b8-a681bee4470e.png" style="vertical-align: middle; margin-right: 8px;"/> Data Explorer App</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/228927052-da76601b-f8e2-401c-bcc5-3cb1071b95e4.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-A SwiftUI-based iOS application for searching, sorting, and analyzing data with interactive visualizations.
-
-#### Technical Highlights
-- Implemented **MVVM architecture** for clean separation of concerns
-- Used **Swift Concurrency** with async/await for network operations
-- Developed custom **Swift Charts** for interactive data visualization
-- Wrote comprehensive **XCTest** unit and UI tests
-- Integrated with multiple **RESTful APIs** for data retrieval
-
-#### Links
-<a href="#" target="_blank"><img width="120" alt="View Source" src="https://img.shields.io/badge/View%20Source-GitHub-black?style=for-the-badge&logo=github"/></a>
-<a href="#"><img width="120" alt="App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226111042-a84536e4-1b78-4488-aecf-7256c6dbc704.png" style="vertical-align: middle; margin-right: 8px;"/> Multi-Timer App</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224740816-7f7f63b6-290e-4e1d-ab3f-74fc7b8e1818.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-A native iOS application that allows users to run multiple timers simultaneously with Home Screen widgets for quick access and monitoring.
-
-#### Technical Highlights
-- Created custom **WidgetKit** extensions for iOS Home Screen widgets
-- Implemented **StoreKit** for in-app purchases and subscription management
-- Utilized **UserNotifications** framework for timer alerts
-- Built adaptive layouts with **SwiftUI** and **UIKit**
-- Designed custom persistence layer for timer state management
-
-#### Links
-<a href="#"><img width="120" alt="App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
-
-</td>
-</tr>
-</table>
-
----
-
-<h3><img width="30" alt="App Icon" src="https://user-images.githubusercontent.com/945761/226110518-7e5f88b9-9b5c-47c5-835a-610e1e7fa09d.png" style="vertical-align: middle; margin-right: 8px;"/> Interactive Game</h3>
-
-<table>
-<tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
-<img width="90" alt="Screenshot 2" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
-<img width="90" alt="Screenshot 3" src="https://user-images.githubusercontent.com/945761/224750228-3b348865-d658-484d-b3e1-4d17eebdfc72.png"/>
-</div>
-</td>
-<td>
-
-#### Overview
-An immersive iOS gaming experience built with SpriteKit that features intelligent character responses to user interactions with the environment.
-
-#### Technical Highlights
-- Leveraged **SpriteKit** for 2D graphics rendering and animations
-- Utilized **GameplayKit** for advanced game mechanics including:
-  - Path-finding algorithms
-  - Obstacle avoidance systems
-  - State machines for character behavior
-- Created a custom Swift DSL for more expressive animation sequences
-- Implemented performance optimizations for smooth gameplay
-
-#### Links
-<a href="#"><img width="120" alt="App Store" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"/></a>
 
 </td>
 </tr>
