@@ -168,7 +168,7 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/pic-answer-ai-solver/id1669210256)
 
 ---
 
