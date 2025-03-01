@@ -7,9 +7,7 @@
 
 ## Featured Projects
 
-### Simly - iOS App
-
-![Simly App Icon](./assets/simly/icon.png)
+### <div style="display: flex; gap: 10px;"><img src="./assets/simly/icon.png) Simly - iOS App
 
 **Overview:**
 Simly is a dynamic iOS application designed to connect users through seamless video interactions, boasting over 1 million active users.
@@ -26,15 +24,11 @@ Simly is a dynamic iOS application designed to connect users through seamless vi
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
 
 **Screenshots:**
-![Simly Screenshot 1](./assets/simly/screenshot1.png)
-![Simly Screenshot 2](./assets/simly/screenshot2.png)
-![Simly Screenshot 3](./assets/simly/screenshot3.png)
+![Simly Screenshot 1](./assets/simly/screenshot1.png" width="120px"/><img src="./assets/simly/screenshot2.png" width="120px"/><img src="./assets/simly/screenshot3.png" width="120px"/></div>
 
 ---
 
-### AI Video Generator - Serda
-
-![Serda App Icon](./assets/ai-video-generator/icon.png)
+### <div style="display: flex; gap: 10px;"><img src="./assets/ai-video-generator/icon.png) AI Video Generator - Serda
 
 **Overview:**
 An AI-powered video generation application developed using Flutter, enabling users to create videos from text prompts seamlessly across platforms.
@@ -52,15 +46,11 @@ An AI-powered video generation application developed using Flutter, enabling use
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](#)
 
 **Screenshots:**
-![Serda Screenshot 1](./assets/ai-video-generator/screenshot1.png)
-![Serda Screenshot 2](./assets/ai-video-generator/screenshot2.png)
-![Serda Screenshot 3](./assets/ai-video-generator/screenshot3.png)
+![Serda Screenshot 1](./assets/ai-video-generator/screenshot1.png" width="120px"/><img src="./assets/ai-video-generator/screenshot2.png" width="120px"/><img src="./assets/ai-video-generator/screenshot3.png" width="120px"/></div>
 
 ---
 
-### Yara - Dubai Real Estate
-
-![Yara App Icon](./assets/yara/icon.png)
+### <div style="display: flex; gap: 10px;"><img src="./assets/yara/icon.png) Yara - Dubai Real Estate
 
 **Overview:**
 A specialized real estate application focusing on luxury apartment sales in Dubai, offering users an immersive property browsing and purchasing experience.
@@ -78,9 +68,7 @@ A specialized real estate application focusing on luxury apartment sales in Duba
 [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](#)
 
 **Screenshots:**
-![Yara Screenshot 1](./assets/yara/screenshot1.png)
-![Yara Screenshot 2](./assets/yara/screenshot2.png)
-![Yara Screenshot 3](./assets/yara/screenshot3.png)
+![Yara Screenshot 1](./assets/yara/screenshot1.png" width="120px"/><img src="./assets/yara/screenshot2.png" width="120px"/><img src="./assets/yara/screenshot3.png" width="120px"/></div>
 
 ---
 
