@@ -11,13 +11,6 @@
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/simly/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/simly/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/simly/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -32,6 +25,15 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 
 </td>
 </tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -40,13 +42,6 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -61,6 +56,46 @@ Led the development of an AI-powered video generation application using Flutter,
 
 </td>
 </tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png"/>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+<h3><img width="30" alt="App Icon" src="./assets/yara/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Yara - Dubai Real Estate</h3>
+
+<table>
+<tr>
+<td>
+
+#### Overview
+Developed a specialized real estate application focused on luxury apartment sales in Dubai, offering seamless property browsing and purchasing experience.
+
+#### Technical Highlights
+- Built with Flutter for consistent experience across iOS and Android platforms
+- Implemented interactive property maps and 3D apartment visualization
+- Integrated secure payment gateway for property reservations and deposits
+- Created personalized user accounts with favorite properties and viewing history
+- Developed advanced search filters and recommendation algorithms based on user preferences
+
+</td>
+</tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/yara/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/yara/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/yara/screenshot3.png"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -69,13 +104,6 @@ Led the development of an AI-powered video generation application using Flutter,
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/saradar/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/saradar/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/saradar/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -90,6 +118,15 @@ Improved banking app functionality by developing features within an Agile team o
 
 </td>
 </tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/saradar/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/saradar/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/saradar/screenshot3.png"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -98,13 +135,6 @@ Improved banking app functionality by developing features within an Agile team o
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -119,6 +149,15 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 
 </td>
 </tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -127,13 +166,6 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -148,6 +180,15 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 
 </td>
 </tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png"/>
+</div>
+</td>
+</tr>
 </table>
 
 ---
@@ -156,13 +197,6 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 
 <table>
 <tr>
-<td width="300">
-<div align="center">
-<img width="90" alt="Screenshot 1" src="./assets/fibler/screenshot1.png"/>
-<img width="90" alt="Screenshot 2" src="./assets/fibler/screenshot2.png"/>
-<img width="90" alt="Screenshot 3" src="./assets/fibler/screenshot3.png"/>
-</div>
-</td>
 <td>
 
 #### Overview
@@ -175,6 +209,15 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 - Implemented RESTful services and crash reporting
 - Increased data exchange capacity through advanced socket connections
 
+</td>
+</tr>
+<tr>
+<td>
+<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<img width="200" alt="Screenshot 1" src="./assets/fibler/screenshot1.png"/>
+<img width="200" alt="Screenshot 2" src="./assets/fibler/screenshot2.png"/>
+<img width="200" alt="Screenshot 3" src="./assets/fibler/screenshot3.png"/>
+</div>
 </td>
 </tr>
 </table>
