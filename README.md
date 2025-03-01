@@ -36,7 +36,6 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
 
 ---
@@ -70,9 +69,7 @@ Led the development of an AI-powered video generation application using Flutter,
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250px"/>
 
 ---
 
