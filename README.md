@@ -36,7 +36,7 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/simly-esim-internet-plans/id1637892573)
 
 ---
 
@@ -69,7 +69,7 @@ Led the development of an AI-powered video generation application using Flutter,
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/ai-video-generator-serda/id6496283645)
 
 ---
 
@@ -102,7 +102,7 @@ Developed a specialized real estate application focused on luxury apartment sale
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/yara-own-a-home/id6738692799)
 
 ---
 
@@ -135,7 +135,7 @@ Improved banking app functionality by developing features within an Agile team o
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/saradar-bank/id1206924919)
 
 ---
 
@@ -201,7 +201,7 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/malak-al-tawouk/id6443437893)
 
 ---
 
@@ -234,7 +234,7 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 </tr>
 </table>
 
-[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/lb/app/fibler-expert-consultations/id1314411855)
 
 ---
 
