@@ -7,7 +7,7 @@
 
 ## Featured Projects
 
-<h3><img width="30" alt="App Icon" src="./assets/simly/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Simly - iOS App</h3>
+<h3><img width="30" alt="App Icon" src="./assets/simly/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Simly - iOS App</h3>
 
 <table>
 <tr>
@@ -28,9 +28,9 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -38,7 +38,7 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/ai-video-generator/icon.png" style="vertical-align: middle; margin-right: 8px;"/> AI Video Generator - Serda</h3>
+<h3><img width="30" alt="App Icon" src="./assets/ai-video-generator/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> AI Video Generator - Serda</h3>
 
 <table>
 <tr>
@@ -59,9 +59,9 @@ Led the development of an AI-powered video generation application using Flutter,
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -69,7 +69,7 @@ Led the development of an AI-powered video generation application using Flutter,
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/yara/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Yara - Dubai Real Estate</h3>
+<h3><img width="30" alt="App Icon" src="./assets/yara/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Yara - Dubai Real Estate</h3>
 
 <table>
 <tr>
@@ -90,9 +90,9 @@ Developed a specialized real estate application focused on luxury apartment sale
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/yara/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/yara/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/yara/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/yara/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/yara/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/yara/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -100,7 +100,7 @@ Developed a specialized real estate application focused on luxury apartment sale
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/saradar/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Banking App - Saradar Bank</h3>
+<h3><img width="30" alt="App Icon" src="./assets/saradar/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Banking App - Saradar Bank</h3>
 
 <table>
 <tr>
@@ -121,9 +121,9 @@ Improved banking app functionality by developing features within an Agile team o
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/saradar/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/saradar/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/saradar/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/saradar/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/saradar/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/saradar/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -131,7 +131,7 @@ Improved banking app functionality by developing features within an Agile team o
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/pic-answer/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Pic Answer - AI Image Analysis</h3>
+<h3><img width="30" alt="App Icon" src="./assets/pic-answer/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Pic Answer - AI Image Analysis</h3>
 
 <table>
 <tr>
@@ -152,9 +152,9 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -162,7 +162,7 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/malak-al-taouk/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Malak Al Taouk - Restaurant App</h3>
+<h3><img width="30" alt="App Icon" src="./assets/malak-al-taouk/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Malak Al Taouk - Restaurant App</h3>
 
 <table>
 <tr>
@@ -183,9 +183,9 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
@@ -193,7 +193,7 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 
 ---
 
-<h3><img width="30" alt="App Icon" src="./assets/fibler/icon.png" style="vertical-align: middle; margin-right: 8px;"/> Fibler - Communication Platform</h3>
+<h3><img width="30" alt="App Icon" src="./assets/fibler/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Fibler - Communication Platform</h3>
 
 <table>
 <tr>
@@ -214,9 +214,9 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 <tr>
 <td>
 <div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/fibler/screenshot1.png"/>
-<img width="200" alt="Screenshot 2" src="./assets/fibler/screenshot2.png"/>
-<img width="200" alt="Screenshot 3" src="./assets/fibler/screenshot3.png"/>
+<img width="200" alt="Screenshot 1" src="./assets/fibler/screenshot1.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/fibler/screenshot2.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/fibler/screenshot3.png" style="border-radius: 15px;"/>
 </div>
 </td>
 </tr>
