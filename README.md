@@ -7,15 +7,7 @@
 
 ## Featured Projects
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/simly/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Simly - iOS App
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/simly/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Simly - iOS App</h3>
 
 <table width="100%">
 <tr>
@@ -44,17 +36,11 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/ai-video-generator/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    AI Video Generator - Serda
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/ai-video-generator/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> AI Video Generator - Serda</h3>
 
 <table width="100%">
 <tr>
@@ -83,17 +69,11 @@ Led the development of an AI-powered video generation application using Flutter,
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/yara/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Yara - Dubai Real Estate
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/yara/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Yara - Dubai Real Estate</h3>
 
 <table width="100%">
 <tr>
@@ -122,17 +102,11 @@ Developed a specialized real estate application focused on luxury apartment sale
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/saradar/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Banking App - Saradar Bank
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/saradar/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Banking App - Saradar Bank</h3>
 
 <table width="100%">
 <tr>
@@ -161,17 +135,11 @@ Improved banking app functionality by developing features within an Agile team o
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/pic-answer/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Pic Answer - AI Image Analysis
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/pic-answer/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Pic Answer - AI Image Analysis</h3>
 
 <table width="100%">
 <tr>
@@ -200,17 +168,11 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/malak-al-taouk/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Malak Al Taouk - Restaurant App
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/malak-al-taouk/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Malak Al Taouk - Restaurant App</h3>
 
 <table width="100%">
 <tr>
@@ -239,17 +201,11 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 </tr>
 </table>
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
+
 ---
 
-<h3 style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <img width="30" alt="App Icon" src="./assets/fibler/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> 
-    Fibler - Communication Platform
-  </div>
-  <a href="#" style="text-decoration: none;">
-    <img height="35" alt="Download on the App Store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83"/>
-  </a>
-</h3>
+<h3><img width="30" alt="App Icon" src="./assets/fibler/icon.png" style="vertical-align: middle; margin-right: 8px; border-radius: 8px;"/> Fibler - Communication Platform</h3>
 
 <table width="100%">
 <tr>
@@ -277,6 +233,8 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 </td>
 </tr>
 </table>
+
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
 
 ---
 
