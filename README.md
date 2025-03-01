@@ -135,7 +135,6 @@ Improved banking app functionality by developing features within an Agile team o
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
 
 ---
@@ -169,9 +168,7 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250px"/>
 
 ---
 
@@ -204,9 +201,7 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250px"/>
 
 ---
 
@@ -239,7 +234,6 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
 
 ---
