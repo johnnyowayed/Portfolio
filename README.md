@@ -102,9 +102,7 @@ Developed a specialized real estate application focused on luxury apartment sale
 </tr>
 </table>
 
-**Download:**
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250px"/>
 
 ---
 
