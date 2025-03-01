@@ -28,9 +28,9 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 <tr>
 <td>
 <div style="display: flex; gap: 30px; margin-top: 15px;">
-<img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png" style="border-radius: 15px;"/>
-<img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png" style="border-radius: 15px;"/>
-<img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png" style="border-radius: 15px;"/>
+<img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png" style="border-radius: 20px;"/>
+<img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png" style="border-radius: 20px;"/>
+<img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png" style="border-radius: 20px;"/>
 </div>
 </td>
 </tr>
