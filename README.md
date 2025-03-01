@@ -27,7 +27,7 @@ Developed and maintained an iOS app with over 1M+ users, ensuring high performan
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/simly/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/simly/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/simly/screenshot3.png" style="border-radius: 15px;"/>
@@ -58,7 +58,7 @@ Led the development of an AI-powered video generation application using Flutter,
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/ai-video-generator/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/ai-video-generator/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/ai-video-generator/screenshot3.png" style="border-radius: 15px;"/>
@@ -89,7 +89,7 @@ Developed a specialized real estate application focused on luxury apartment sale
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/yara/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/yara/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/yara/screenshot3.png" style="border-radius: 15px;"/>
@@ -120,7 +120,7 @@ Improved banking app functionality by developing features within an Agile team o
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/saradar/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/saradar/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/saradar/screenshot3.png" style="border-radius: 15px;"/>
@@ -151,7 +151,7 @@ Developed a Flutter application that uses AI to analyze images and provide conte
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/pic-answer/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/pic-answer/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/pic-answer/screenshot3.png" style="border-radius: 15px;"/>
@@ -182,7 +182,7 @@ Designed and developed a comprehensive restaurant application for Malak Al Taouk
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/malak-al-taouk/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/malak-al-taouk/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/malak-al-taouk/screenshot3.png" style="border-radius: 15px;"/>
@@ -213,7 +213,7 @@ Increased user satisfaction by 20% through redesigning the iOS app's user interf
 </tr>
 <tr>
 <td>
-<div align="center" style="display: flex; justify-content: space-between; margin-top: 15px;">
+<div style="display: flex; gap: 10px; margin-top: 15px;">
 <img width="200" alt="Screenshot 1" src="./assets/fibler/screenshot1.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 2" src="./assets/fibler/screenshot2.png" style="border-radius: 15px;"/>
 <img width="200" alt="Screenshot 3" src="./assets/fibler/screenshot3.png" style="border-radius: 15px;"/>
