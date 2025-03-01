@@ -9,7 +9,7 @@
 
 ### Simly - iOS App
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-<img src="/api/placeholder/60/60" alt="Simly App Icon" style="border-radius: 12px;"/>
+<img src="./assets/simly/icon.png" alt="Simly App Icon" style="border-radius: 12px; width: 60px; height: 60px;"/>
 </div>
 
 **Overview:**
@@ -28,16 +28,16 @@ Simly is a dynamic iOS application designed to connect users through seamless vi
 
 **Screenshots:**
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-<img src="/api/placeholder/120/240" alt="Simly Screenshot 1" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Simly Screenshot 2" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Simly Screenshot 3" width="120px"/>
+<img src="./assets/simly/screenshot1.png" alt="Simly Screenshot 1" width="120px"/>
+<img src="./assets/simly/screenshot2.png" alt="Simly Screenshot 2" width="120px"/>
+<img src="./assets/simly/screenshot3.png" alt="Simly Screenshot 3" width="120px"/>
 </div>
 
 ---
 
 ### AI Video Generator - Serda
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-<img src="/api/placeholder/60/60" alt="Serda App Icon" style="border-radius: 12px;"/>
+<img src="./assets/ai-video-generator/icon.png" alt="Serda App Icon" style="border-radius: 12px; width: 60px; height: 60px;"/>
 </div>
 
 **Overview:**
@@ -53,20 +53,20 @@ An AI-powered video generation application developed using Flutter, enabling use
 **Download:**
 
 [![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](#)
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](#)
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png){width=170px}](#)
 
 **Screenshots:**
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-<img src="/api/placeholder/120/240" alt="Serda Screenshot 1" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Serda Screenshot 2" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Serda Screenshot 3" width="120px"/>
+<img src="./assets/ai-video-generator/screenshot1.png" alt="Serda Screenshot 1" width="120px"/>
+<img src="./assets/ai-video-generator/screenshot2.png" alt="Serda Screenshot 2" width="120px"/>
+<img src="./assets/ai-video-generator/screenshot3.png" alt="Serda Screenshot 3" width="120px"/>
 </div>
 
 ---
 
 ### Yara - Dubai Real Estate
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-<img src="/api/placeholder/60/60" alt="Yara App Icon" style="border-radius: 12px;"/>
+<img src="./assets/yara/icon.png" alt="Yara App Icon" style="border-radius: 12px; width: 60px; height: 60px;"/>
 </div>
 
 **Overview:**
@@ -86,9 +86,9 @@ A specialized real estate application focusing on luxury apartment sales in Duba
 
 **Screenshots:**
 <div style="display: flex; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
-<img src="/api/placeholder/120/240" alt="Yara Screenshot 1" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Yara Screenshot 2" width="120px"/>
-<img src="/api/placeholder/120/240" alt="Yara Screenshot 3" width="120px"/>
+<img src="./assets/yara/screenshot1.png" alt="Yara Screenshot 1" width="120px"/>
+<img src="./assets/yara/screenshot2.png" alt="Yara Screenshot 2" width="120px"/>
+<img src="./assets/yara/screenshot3.png" alt="Yara Screenshot 3" width="120px"/>
 </div>
 
 ---
